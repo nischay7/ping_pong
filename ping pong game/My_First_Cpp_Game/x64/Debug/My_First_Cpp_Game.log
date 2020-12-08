@@ -1,0 +1,7 @@
+﻿  win32_platform.cpp
+D:\pong_learn_programming-master\My_First_Cpp_Game\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\pong_learn_programming-master\My_First_Cpp_Game\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\pong_learn_programming-master\My_First_Cpp_Game\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\pong_learn_programming-master\My_First_Cpp_Game\renderer.cpp(60,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\pong_learn_programming-master\My_First_Cpp_Game\game.cpp(144,61): warning C4305: 'argument': truncation from 'double' to 'float'
+  My_First_Cpp_Game.vcxproj -> D:\pong_learn_programming-master\x64\Debug\My_First_Cpp_Game.exe
